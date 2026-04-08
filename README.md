@@ -221,6 +221,7 @@ A curated list of bitcoin services and tools for software developers
 * [Learn me a Bitcoin - Greg Walker](https://learnmeabitcoin.com/) - extensive learning resource for bitcoin developers
 * [Bennet.org](https://bennet.org/) - Interactive technical guides for bitcoiners.
 * [Knowing Bitcoin](https://knowingbitcoin.com/) - Comprehensive Bitcoin education with 214+ in-depth guides on Lightning Network, wallets, security, privacy, and nodes.
+* [Augea](https://augea.io) - Snapshot-backed crypto exchange fee comparison across 10 countries, 18 assets, card and bank transfer rails. Every estimate is backed by a reproducible snapshot ID with public audit trail.
 ---
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
