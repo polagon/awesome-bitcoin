@@ -30,6 +30,7 @@ A curated list of bitcoin services and tools for software developers
 
 
 ## Utilities
+* [Augea](https://augea.io) - Snapshot-backed crypto exchange fee comparison across 10 countries, 18 assets, card and bank transfer rails. Every estimate is backed by a reproducible snapshot ID with public audit trail.
 * [Nigiri](https://github.com/vulpemventures/nigiri/) - CLI to quickly fire up a a Bitcoin regtest box along with Electrs and Esplora. Includes faucet and push commands.
 * [hal](https://github.com/stevenroose/hal) - Bitcoin CLI swiss-army-knife (based on rust-bitcoin).
 * [BitKey](https://bitkey.io) - Live USB for airgapped transactions and Bitcoin swiss army knife.
@@ -66,7 +67,6 @@ A curated list of bitcoin services and tools for software developers
 * [mempool.space](https://mempool.space/docs/api/rest) - Open source and self hostable REST, WebSocket and Electrum RPC API
 * [Bitview](https://bitview.space/) - An open source Bitcoin Core data extractor and visualizer (aka FOSS Glassnode)
 * [Maestro](https://www.gomaestro.org/) - A high-performance Bitcoin RPC and UTXO indexer API that powers applications with real-time blockchain data, mempool monitoring, and event notifications.
-* * [Augea](https://augea.io) - Snapshot-backed crypto exchange fee comparison across 10 countries, 18 assets, card and bank transfer rails. Every estimate is backed by a reproducible snapshot ID with public audit trail.
 
 ## Market Data API
 * [CoinMetrics.io](https://docs.coinmetrics.io/) JSON REST API (free as well as paid) with access to market data. Also CSV data file download available.
