@@ -66,6 +66,7 @@ A curated list of bitcoin services and tools for software developers
 * [mempool.space](https://mempool.space/docs/api/rest) - Open source and self hostable REST, WebSocket and Electrum RPC API
 * [Bitview](https://bitview.space/) - An open source Bitcoin Core data extractor and visualizer (aka FOSS Glassnode)
 * [Maestro](https://www.gomaestro.org/) - A high-performance Bitcoin RPC and UTXO indexer API that powers applications with real-time blockchain data, mempool monitoring, and event notifications.
+* * [Augea](https://augea.io) - Snapshot-backed crypto exchange fee comparison across 10 countries, 18 assets, card and bank transfer rails. Every estimate is backed by a reproducible snapshot ID with public audit trail.
 
 ## Market Data API
 * [CoinMetrics.io](https://docs.coinmetrics.io/) JSON REST API (free as well as paid) with access to market data. Also CSV data file download available.
@@ -221,7 +222,6 @@ A curated list of bitcoin services and tools for software developers
 * [Learn me a Bitcoin - Greg Walker](https://learnmeabitcoin.com/) - extensive learning resource for bitcoin developers
 * [Bennet.org](https://bennet.org/) - Interactive technical guides for bitcoiners.
 * [Knowing Bitcoin](https://knowingbitcoin.com/) - Comprehensive Bitcoin education with 214+ in-depth guides on Lightning Network, wallets, security, privacy, and nodes.
-* [Augea](https://augea.io) - Snapshot-backed crypto exchange fee comparison across 10 countries, 18 assets, card and bank transfer rails. Every estimate is backed by a reproducible snapshot ID with public audit trail.
 ---
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
